@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQGpg-8XP_fGRw/profile-displaybackgroundimage-shrink_350_1400/0/1665633100308?e=1671062400&v=beta&t=mFce3TkyGowMm8-8UAn7Gq0mRIaClqhk58FDugwQGsY)
+![Header](./emmanuel-github-header-image.png))
 <h1 align="center">Hi 👋, I'm Emmanuel Adepoju</h1>
 <h3 align="center">A Python Developer and GCP Cloud Engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
