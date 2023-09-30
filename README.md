@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **GCP, Kubernetes**
+- 🌱 I’m currently learning **Airflow, Kubernetes, Spark**
 
 - 👯 I’m looking to collaborate on **Cloud Related projects**
 
