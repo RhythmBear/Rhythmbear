@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Cloud Related projects**
 
-- 📝 I regularly write articles on [https://emmanueladepoju.hashnode.dev/](https://emmanueladepoju.hashnode.dev/)
+- 📝 I plan to write articles on [https://emmanueladepoju.hashnode.dev/](https://emmanueladepoju.hashnode.dev/)
 
 - 💬 Ask me about **Python, GCP**
 
 - 📫 How to reach me **femiemmanuel1990@gmail.com**
 
-- ⚡ Fun fact **I'm a Civil Engineering Student and a huge music lover**
+- ⚡ Fun fact **I'm a Huge music lover and a fan of Dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
