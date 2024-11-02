@@ -1,17 +1,17 @@
 ![Header](./emmanuel-github-header-image.png)
 <h1 align="center">Hi 👋, I'm Emmanuel Adepoju</h1>
-<h3 align="center">A Python Developer and Data Engineer from Nigeria</h3>
+<h3 align="center">A Data Engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 
 
-- 🌱 I’m currently learning **Airflow, Kubernetes, Spark**
+- 🌱 I’m currently learning **Deploying Infrastructure with Microsoft Azure, Data Streaming with Kafka **
 
-- 👯 I’m looking to collaborate on **Cloud Related projects**
+- 👯 I’m looking to collaborate on **Data Engineering & Cloud Related projects**
 
 - 📝 I plan to write articles on [https://emmanueladepoju.hashnode.dev/](https://emmanueladepoju.hashnode.dev/)
 
-- 💬 Ask me about **Python, GCP**
+- 💬 Ask me about **Python, Azure, GCP**
 
 - 📫 How to reach me **femiemmanuel1990@gmail.com**
 
