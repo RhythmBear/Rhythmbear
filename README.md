@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Deploying Infrastructure with Microsoft Azure, Data Streaming with Kafka **
+- 🌱 I’m currently learning **Deploying Infrastructure with Microsoft Azure, Data Streaming with Kafka** , **While Preparing for my Azure Data Engineering Certification**
 
 - 👯 I’m looking to collaborate on **Data Engineering & Cloud Related projects**
 
